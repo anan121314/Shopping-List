@@ -1,0 +1,95 @@
+{
+    "List":
+[
+    {
+        "name":"Rice",
+        "Quantity":5,
+        "Unit":"KG",
+        "Department":"Grains",
+        "Notes":"Basmathi"
+    },
+
+    {
+        "name":"sugar",
+        "Quantity":2,
+        "Unit":"KG",
+        "Department":"Food",
+        "Notes":""
+    },
+
+    {
+        "name":"Palm Oil",
+        "Quantity":2,
+        "Unit":"Litres",
+        "Department":"Food",
+        "Notes":"Sunflover"
+    },
+
+    {
+        "name":"Wheat",
+        "Quantity":5,
+        "Unit":"KG",
+        "Department":"Grains",
+        "Notes":"Aashirvd"
+    },
+
+    {
+        "name":"Biscut",
+        "Quantity":5,
+        "Unit":"Packet",
+        "Department":"Snacks",
+        "Notes":"Sugar free"
+    },
+    {
+        "name":"Vinegar",
+        "Quantity":1,
+        "Unit":"Litres",
+        "Department":"Preservatives",
+        "Notes":""
+    },
+    {
+        "name":"Ladies Finger",
+        "Quantity":0.25,
+        "Unit":"KG",
+        "Department":"Vegitables",
+        "Notes":"Fresh"
+    },
+    {
+        "name":"Onion",
+        "Quantity":2,
+        "Unit":"KG",
+        "Department":"Vegitables",
+        "Notes":"Big Onion"
+    },
+    {
+        "name":"Tea Powder",
+        "Quantity":0.5,
+        "Unit":"KG",
+        "Department":"Food",
+        "Notes":"red label"
+    },
+    {
+        "name":"Grapes",
+        "Quantity":2,
+        "Unit":"KG",
+        "Department":"Fruits",
+        "Notes":"green"
+    },
+    {
+        "name":"cucumber",
+        "Quantity":2,
+        "Unit":"KG",
+        "Department":"Vegitables",
+        "Notes":"medium sized"
+    },
+    {
+        "name":"Ice Cream",
+        "Quantity":2,
+        "Unit":"bowl",
+        "Department":"Instant food",
+        "Notes":"chocolate flavour"
+    }
+
+]
+}
+
